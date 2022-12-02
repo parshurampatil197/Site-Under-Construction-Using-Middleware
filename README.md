@@ -8,6 +8,8 @@ It’s a light, low-level “plugin” system for globally altering Django’s i
 Built in Middleware  \
 Custom Middleware
 
+![2](https://user-images.githubusercontent.com/84769341/205232753-93c656a3-5562-4b23-b5ce-4343a15072b8.png)
+
 
 ## Requirements
 
